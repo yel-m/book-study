@@ -1,0 +1,12 @@
+[submodule "clean-code"]
+	path = clean-code
+	url = https://github.com/star-books-coffee/clean-code
+[submodule "great-IT-english"]
+	path = great-IT-english
+	url = https://github.com/star-books-coffee/great-IT-english
+[submodule "java-coding-techniques"]
+	path = java-coding-techniques
+	url = https://github.com/star-books-coffee/java-coding-techniques
+[submodule "aws-structure-and-services"]
+	path = aws-structure-and-services
+	url = https://github.com/star-books-coffee/aws-structure-and-services
