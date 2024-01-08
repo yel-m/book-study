@@ -10,3 +10,6 @@
 [submodule "aws-structure-and-services"]
 	path = aws-structure-and-services
 	url = https://github.com/star-books-coffee/aws-structure-and-services
+[submodule "next-step"]
+	path = next-step
+	url = https://github.com/yel-m/next-step
