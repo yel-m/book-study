@@ -13,3 +13,6 @@
 [submodule "next-step"]
 	path = next-step
 	url = https://github.com/yel-m/next-step
+[submodule "docs-for-developer"]
+	path = docs-for-developer
+	url = https://github.com/star-books-coffee/docs-for-developer
