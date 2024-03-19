@@ -16,3 +16,6 @@
 [submodule "docs-for-developer"]
 	path = docs-for-developer
 	url = https://github.com/star-books-coffee/docs-for-developer
+[submodule "tobys-spring"]
+	path = tobys-spring
+	url = https://github.com/star-books-coffee/tobys-spring
