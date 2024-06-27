@@ -10,5 +10,5 @@
 | 자바 웹 프로그래밍 Next Step | [링크](https://github.com/yel-m/next-step) | `진행중` |
 | 토비의 스프링 | [링크](https://github.com/star-books-coffee/tobys-spring) | `진행중` |
 | 그림으로 배우는 Http & Network Basic | [링크](https://github.com/star-books-coffee/http-network-basic) | `진행중` |
-| Methematics for Machine Learning | [링크](https://github.com/star-books-coffee/MML) |
+| Methematics for Machine Learning | [링크](https://github.com/star-books-coffee/MML) | `진행중` |
 
