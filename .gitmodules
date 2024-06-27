@@ -22,3 +22,6 @@
 [submodule "http-network-basic"]
 	path = http-network-basic
 	url = https://github.com/star-books-coffee/http-network-basic
+[submodule "MML"]
+	path = MML
+	url = https://github.com/star-books-coffee/MML
