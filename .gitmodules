@@ -19,3 +19,6 @@
 [submodule "tobys-spring"]
 	path = tobys-spring
 	url = https://github.com/star-books-coffee/tobys-spring
+[submodule "http-network-basic"]
+	path = http-network-basic
+	url = https://github.com/star-books-coffee/http-network-basic
