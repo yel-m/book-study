@@ -11,4 +11,5 @@
 | 토비의 스프링 | [링크](https://github.com/star-books-coffee/tobys-spring) | `진행중` |
 | 그림으로 배우는 Http & Network Basic | [링크](https://github.com/star-books-coffee/http-network-basic) | `진행중` |
 | Mathematics for Machine Learning | [링크](https://github.com/star-books-coffee/MML) | `진행중` |
+| 프로그래머의 뇌 | [링크](https://github.com/star-books-study/the-programmers-brain) | `진행중` |
 
