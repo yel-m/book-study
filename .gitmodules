@@ -25,3 +25,6 @@
 [submodule "MML"]
 	path = MML
 	url = https://github.com/star-books-coffee/MML
+[submodule "the-programmers-brain"]
+	path = the-programmers-brain
+	url = https://github.com/star-books-study/the-programmers-brain
