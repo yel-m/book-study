@@ -13,4 +13,5 @@
 | Mathematics for Machine Learning | [링크](https://github.com/star-books-coffee/MML) | ✅ |
 | 프로그래머의 뇌 | [링크](https://github.com/star-books-study/the-programmers-brain) | `진행중` |
 | 함수형 프로그래밍 | [링크](https://github.com/star-books-study/functional-approach-to-java) | `진행중` |
+| 더 나은 프로그래머 되는 법 | [링크](https://github.com/star-books-study/becoming-a-better-programmer) | `진행중` |
 
