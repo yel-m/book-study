@@ -1,7 +1,5 @@
 # 📚 Book Study
 
-A study group reading technical books together and applying what we learn.
-
 | **Book Title**                                                                                                 | **Repository**                                                              | **Status**      |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------|
 | *Clean Code*                                                                                                   | [GitHub](https://github.com/star-books-coffee/clean-code)                   | ✅ Completed     |
