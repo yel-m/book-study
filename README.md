@@ -16,3 +16,4 @@
 | *Next Step in Java Web Programming* (자바 웹 프로그래밍 Next Step)                                             | [GitHub](https://github.com/yel-m/next-step)                                | 🔄 In Progress   |
 | *Functional Programming Approach with Java* (함수형 프로그래밍)                                                 | [GitHub](https://github.com/star-books-study/functional-approach-to-java)   | 🔄 In Progress   |
 | *Becoming a Better Programmer* (더 나은 프로그래머 되는 법)                                                     | [GitHub](https://github.com/star-books-study/becoming-a-better-programmer)  | 🔄 In Progress   |
+| *Essential Practical Knowledge for Junior Backend Developers* (주니어 개발자가 반드시 알아야 할 실무 지식)                                        | [Github](https://github.com/star-books-study/essential-practical-knowledge.git) | 🔄 In Progress | 
